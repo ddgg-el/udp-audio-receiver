@@ -1,0 +1,6 @@
+{
+	"java.project.referencedLibraries": [
+		"lib/**/*.jar",
+		"/Applications/Max8.5.app/Contents/Resources/C74/packages/max-mxj/java-classes/lib/max.jar"
+	]
+}
