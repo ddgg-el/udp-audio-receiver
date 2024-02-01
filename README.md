@@ -17,4 +17,4 @@ You might want to change the `max.jar` path if different from the one provided
 
 To test the software a `basic.maxpat` patch is provided (the compile `*.class` files should be installed in the same folder of the patch)
 
-**N.B.** This repository contains a `.vscode` configuration folder to be able to compile project directly in VSCode
+**N.B.** This repository contains a `.vscode` configuration folder to let IntelliSense parse your code
